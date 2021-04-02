@@ -1,10 +1,10 @@
 {
-  "latestVersion": "11.0.0",
-  "latestVersionCode": "11",
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "latestVersion": "9.0.0",
+  "latestVersionCode": "9",
+  "url": "https://gitlab.com/isaacmaria2/appupdatertest/-/releases",
   "releaseNotes": [
-    "- First evolution",
+    "- Test evolution",
     "- Second evolution",
-    "- Isaac Maria"
+    "- Bug fixes"
   ]
 }
