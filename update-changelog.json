@@ -1,6 +1,6 @@
 {
-  "latestVersion": "9.0.0",
-  "latestVersionCode": "9",
+  "latestVersion": "12.0.0",
+  "latestVersionCode": 12,
   "url": "https://github.com/isaacmaria/AppUpdater/blob/main/app-debug.apk",
   "releaseNotes": [
     "- Test evolution",
